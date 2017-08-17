@@ -15,6 +15,6 @@ Metrics: [SMAPE](https://en.wikipedia.org/wiki/Symmetric_mean_absolute_percentag
 **Test (subset)** - 49.29% (49.26%)
 ***
 2. <br>
-**Features:** 30 lags, month, day, day of week, lang, Project, Access, Agent
+**Features:** 30 lags, month, day, day of week, lang, Project, Access, Agent<br>
 **Test (subset)** - 49.99%
 
