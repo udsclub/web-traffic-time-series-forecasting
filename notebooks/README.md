@@ -1,6 +1,6 @@
 # Experiments and Results
 
-Test dates: 10-09-2016 – 10-11-2016
+Test dates: 10-09-2016 – 10-11-2016 <br>
 Metrics: [SMAPE](https://en.wikipedia.org/wiki/Symmetric_mean_absolute_percentage_error)
 ***
 ## Last day prediction
